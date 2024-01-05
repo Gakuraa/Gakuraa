@@ -28,6 +28,6 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gakuraa&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gakuraa&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gakuraa&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gakuraa&hide_progress=true)
+
