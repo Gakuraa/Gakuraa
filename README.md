@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel!
+# Hi, I'm Gabriel!
 
 <br>🖥 I'm a developer in training
 <br>🌎 27 year old Brazilian from São Paulo.
